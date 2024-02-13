@@ -1,0 +1,102 @@
+100 level soal NodeJS
+
+[*] 1. Buat program Node.js sederhana yang menampilkan "Hello World!" di terminal.
+[ ] 2. Buat program Node.js sederhana untuk menjumlahkan dua bilangan.
+[ ] 3. Buat program Node.js sederhana untuk menentukan apakah sebuah bilangan ganjil atau genap.
+[ ] 4. Buat program Node.js sederhana untuk menghitung luas lingkaran.
+[ ] 5. Buat program Node.js sederhana untuk mengubah suhu dari Fahrenheit ke Celsius.
+[ ] 6. Buat program Node.js sederhana untuk menghitung nilai rata-rata dari tiga bilangan.
+[ ] 7. Buat program Node.js sederhana untuk menentukan bilangan terbesar dari dua bilangan.
+[ ] 8. Buat program Node.js sederhana untuk menentukan apakah suatu bilangan prima atau tidak.
+[ ] 9. Buat program Node.js sederhana untuk mencari akar kuadrat dari sebuah bilangan.
+[ ] 10. Buat program Node.js sederhana untuk menghitung jumlah huruf dalam sebuah kata.
+[ ] 11. Buat program Node.js sederhana untuk mengecek apakah sebuah kata palindrome atau tidak.
+[ ] 12. Buat program Node.js sederhana untuk menghitung jumlah kata dalam sebuah kalimat.
+[ ] 13. Buat program Node.js sederhana untuk menghitung jumlah bilangan prima dalam sebuah rentang bilangan.
+[ ] 14. Buat program Node.js sederhana untuk mengurutkan bilangan dari yang terkecil hingga terbesar.
+[ ] 15. Buat program Node.js sederhana untuk mencari nilai tengah dari tiga bilangan.
+[ ] 16. Buat program Node.js sederhana untuk mengonversi bilangan desimal menjadi biner.
+[ ] 17. Buat program Node.js sederhana untuk mencari nilai maksimum dari sebuah array.
+[ ] 18. Buat program Node.js sederhana untuk menghitung faktorial dari sebuah bilangan.
+[ ] 19. Buat program Node.js sederhana untuk mengecek apakah sebuah kata terdapat dalam sebuah kalimat atau tidak.
+[ ] 20. Buat program Node.js sederhana untuk menghitung jumlah karakter dalam sebuah string.
+[ ] 21. Buat program Node.js sederhana untuk menghitung jumlah kata dalam sebuah string.
+[ ] 22. Buat program Node.js sederhana untuk mengurutkan sebuah array string dari A-Z.
+[ ] 23. Buat program Node.js sederhana untuk mencari bilangan fibonacci ke-n.
+[ ] 24. Buat program Node.js sederhana untuk menghitung jumlah karakter yang sama dalam dua buah string.
+[ ] 25. Buat program Node.js untuk menghapus elemen terakhir dari sebuah array.
+[ ] 26. Buat program Node.js untuk menampilkan angka ganjil dari 1 sampai 100.
+[ ] 27. Buat program Node.js untuk menampilkan bilangan prima dari 1 sampai 100.
+[ ] 28. Buat program Node.js untuk menghitung jumlah elemen dalam sebuah array.
+[ ] 29. Buat program Node.js untuk menghapus elemen tertentu dari sebuah array.
+[ ] 30. Buat program Node.js untuk menemukan bilangan terbesar dan terkecil dalam sebuah array.
+[ ] 31. Buat program Node.js untuk mencari elemen tertentu dalam sebuah array.
+[ ] 32. Buat program Node.js untuk menggabungkan dua array menjadi satu.
+[ ] 33. Buat program Node.js untuk mengurutkan sebuah array dari terkecil hingga terbesar.
+[ ] 34. Buat program Node.js untuk mengecek apakah sebuah kata anagram atau bukan.
+[ ] 35. Buat program Node.js untuk mengonversi sebuah string menjadi huruf kapital.
+[ ] 36. Buat program Node.js untuk mengonversi sebuah string menjadi huruf kecil.
+[ ] 37. Buat program Node.js untuk menghapus semua elemen duplikat dalam sebuah array.
+[ ] 38. Buat program Node.js untuk menghitung frekuensi kemunculan elemen dalam sebuah array.
+[ ] 39. Buat program Node.js untuk mengecek apakah sebuah string palindrom atau bukan.
+[ ] 40. Buat program Node.js untuk menghapus karakter tertentu dari sebuah string.
+[ ] 41. Buat program Node.js untuk mengganti karakter tertentu dalam sebuah string.
+[ ] 42. Buat program Node.js untuk mencari jumlah kata tertentu dalam sebuah kalimat.
+[ ] 43. Buat program Node.js untuk menampilkan bilangan fibonacci dari 1 sampai 100.
+[ ] 44. Buat program Node.js untuk menghitung faktorial dari sebuah bilangan menggunakan rekursi.
+[ ] 45. Buat program Node.js untuk menghitung jumlah digit dalam sebuah bilangan.
+[ ] 46. Buat program Node.js untuk menghitung jumlah angka genap dan ganjil dalam sebuah array.
+[ ] 47. Buat program Node.js untuk mengonversi bilangan desimal menjadi oktal.
+[ ] 48. Buat program Node.js untuk mengonversi bilangan desimal menjadi heksadesimal.
+[ ] 49. Buat program Node.js untuk mengecek apakah sebuah bilangan adalah bilangan Armstrong atau tidak.
+[ ] 50. Buat program Node.js untuk menghitung jumlah permutasi dan kombinasi dari n objek.
+[ ] 51. Buat program Node.js untuk menghitung nilai rata-rata dari sebuah array.
+[ ] 52. Buat program Node.js untuk mengecek apakah sebuah array berisi nilai yang sama atau tidak.
+[ ] 53. Buat program Node.js untuk menghitung jumlah kemunculan substring dalam sebuah string.
+[ ] 54. Buat program Node.js untuk menghitung jumlah elemen unik dalam sebuah array.
+[ ] 55. Buat program Node.js untuk menghitung jumlah kemunculan elemen unik dalam sebuah array.
+[ ] 56. Buat program Node.js untuk menghitung jumlah kemunculan semua elemen dalam sebuah array.
+[ ] 57. Buat program Node.js untuk mengecek apakah sebuah array terurut atau tidak.
+[ ] 58. Buat program Node.js untuk menemukan nilai median dari sebuah array.
+[ ] 59. Buat program Node.js untuk menemukan nilai modus dari sebuah array.
+[ ] 60. Buat program Node.js untuk mengurutkan sebuah array dengan algoritma quicksort.
+[ ] 61. Buat program Node.js untuk mengurutkan sebuah array dengan algoritma mergesort.
+[ ] 62. Buat program Node.js untuk mengurutkan sebuah array dengan algoritma heapsort.
+[ ] 63. Buat program Node.js untuk menghitung jarak antara dua titik dalam koordinat kartesius.
+[ ] 64. Buat program Node.js untuk menghitung keliling dan luas sebuah lingkaran.
+[ ] 65. Buat program Node.js untuk menghitung keliling dan luas sebuah segitiga.
+[ ] 66. Buat program Node.js untuk menghitung keliling dan luas sebuah persegi panjang.
+[ ] 67. Buat program Node.js untuk menghitung keliling dan luas sebuah trapesium.
+[ ] 68. Buat program Node.js untuk menghitung keliling dan luas sebuah jajar genjang.
+[ ] 69. Buat program Node.js untuk menghitung keliling dan luas sebuah layang-layang.
+[ ] 70. Buat program Node.js untuk mengecek apakah sebuah bilangan adalah bilangan prima atau tidak dengan menggunakan algoritma Miller-Rabin.
+[ ] 71. Buat program Node.js untuk menyelesaikan persamaan kuadrat dengan rumus ABC.
+[ ] 72. Buat program Node.js untuk menyelesaikan persamaan kuadrat dengan rumus kuadrat sempurna.
+[ ] 73. Buat program Node.js untuk menyelesaikan persamaan kuadrat dengan metode iterasi.
+[ ] 74. Buat program Node.js untuk menemukan nilai eigen dan vektor eigen dari sebuah matriks.
+[ ] 75. Buat program Node.js untuk menyelesaikan persamaan diferensial dengan metode Runge-Kutta.
+[ ] 76. Buat program Node.js untuk menemukan bilangan prima terbesar yang lebih kecil dari sebuah bilangan bulat yang diberikan.
+[ ] 77. Buat program Node.js untuk mencari nilai maksimum dan minimum dari sebuah matriks.
+[ ] 78. Buat program Node.js untuk mencari semua kemungkinan kombinasi yang mungkin dari kumpulan bilangan bulat.
+[ ] 79. Buat program Node.js untuk menyelesaikan persamaan non-linear dengan metode Newton-Raphson.
+[ ] 80. Buat program Node.js untuk menyelesaikan persamaan diferensial parsial dengan metode elemen hingga.
+[ ] 81. Buat program Node.js untuk memperkirakan nilai dari sebuah integral dengan menggunakan metode Monte Carlo.
+[ ] 82. Buat program Node.js untuk melakukan analisis faktor dengan menggunakan metode analisis komponen utama (PCA).
+[ ] 83. Buat program Node.js untuk melakukan analisis regresi berganda.
+[ ] 84. Buat program Node.js untuk mengimplementasikan algoritma backpropagation untuk jaringan saraf tiruan (neural network).
+[ ] 85. Buat program Node.js untuk mengimplementasikan algoritma Dijkstra untuk mencari jalur terpendek antara dua titik dalam graf berbobot. Graf dapat diwakili menggunakan representasi matriks atau daftar tetangga.
+[ ] 86. Buat program Node.js untuk menghitung jarak antara dua titik pada permukaan bumi dengan memperhitungkan ketinggian masing-masing titik.
+[ ] 87. Buat program Node.js untuk melakukan analisis survival dengan menggunakan model Kaplan-Meier.
+[ ] 88. Buat program Node.js yang mengimplementasikan algoritma k-means untuk melakukan pengelompokan (clustering) pada sebuah dataset numerik. Program ini seharusnya mampu mengelompokkan data ke dalam k kelompok berdasarkan nilai rata-rata pusat kelompok.
+[ ] 89. Buat program Node.js untuk melakukan analisis faktor konfirmatori dengan menggunakan model SEM.
+[ ] 90. Buat program Node.js untuk melakukan regresi logistik.
+[ ] 91. Buat program Node.js untuk menentukan pola urutan waktu dengan menggunakan analisis time series.
+[ ] 92. Buat program Node.js untuk menyelesaikan persamaan diferensial stokastik dengan menggunakan metode Euler-Maruyama.
+[ ] 93. Buat program Node.js untuk melakukan analisis faktor korespondensi.
+[ ] 94. Buat program Node.js untuk melakukan analisis multivariate dengan menggunakan analisis faktor diskriminan (DA).
+[ ] 95. Buat program Node.js untuk melakukan analisis konjoin.
+[ ] 96. Buat program Node.js untuk menyelesaikan persamaan Maxwell dengan menggunakan metode beda hingga waktu-domain.
+[ ] 97. Buat program Node.js untuk melakukan simulasi Monte Carlo untuk mendapatkan harga opsi keuangan.
+[ ] 98. Buat program Node.js untuk melakukan analisis keandalan sistem dengan menggunakan metode Monte Carlo.
+[ ] 99. Buat program Node.js untuk melakukan analisis risiko dengan menggunakan metode Value-at-Risk (VaR).
+[ ] 100. Buat program Node.js untuk menyelesaikan persamaan diferensial parsial non-linear dengan menggunakan metode Galerkin.
