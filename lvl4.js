@@ -1,4 +1,4 @@
-// [ ] 4. Buat program Node.js sederhana untuk menghitung luas lingkaran.
+//4. Buat program Node.js sederhana untuk menghitung luas lingkaran.
 
 
 // import module readline untuk membaca input dari pengguna
