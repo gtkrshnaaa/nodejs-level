@@ -1,4 +1,4 @@
-// // [ ] 2. Buat program Node.js sederhana untuk menjumlahkan dua bilangan.
+// 2. Buat program Node.js sederhana untuk menjumlahkan dua bilangan.
 
 // // mendefinisikan dua bilangan yang akan dijumlahkan
 // const bilangan1 = 4;
