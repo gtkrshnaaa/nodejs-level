@@ -1,8 +1,10 @@
-// // import module 'console' dari node.js
-// const console = require('console');
+// 1. Buat program Node.js sederhana yang menampilkan "Hello World!" di terminal.
 
-// // menampilkan pesan "Hello World!" di terminal
-// console.log("Hello World!");
+// import module 'console' dari node.js
+const console = require('console');
+
+// menampilkan pesan "Hello World!" di terminal
+console.log("Hello World!");
 
 // versi menggunakan readline
 // const readline = require('readline');
