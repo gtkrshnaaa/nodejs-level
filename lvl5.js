@@ -1,3 +1,5 @@
+// 5. Buat program Node.js sederhana untuk mengubah suhu dari Fahrenheit ke Celsius.
+
 // import modul readline untuk membaca input dari pengguna
 const readline = require('readline');
 
